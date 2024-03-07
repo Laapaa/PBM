@@ -1,3 +1,5 @@
+package Dart;
+
 class Senjata {
   final String nama;
   final int kekuatan;
